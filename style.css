@@ -20,13 +20,13 @@ nav{
     padding: 45px 8% 0 8%;
 }
 .logo{
-    color: #fafafa;
+    color: #2ce70f;
     font-size: 35px;
     letter-spacing: 1px;
     cursor:pointer;
 }
 span{
-    color: #20b2aa;
+    color: #008000;
 }
 nav ul li {
     list-style: none;
@@ -39,11 +39,11 @@ nav ul li a {
     font-weight: bold;
 }
 nav ul li a:hover{
-    color:#20b2aa;
+    color:#2ce70f;
     transition: .4s;
 }
 .btn{
-    background: #20b2aa;
+    background: #2ce70f;
     color:#fafafa;
     text-decoration: none;
     border: 2px solid transparent;
@@ -72,7 +72,7 @@ h3{
     margin-bottom: 50px;
 }
 h4{
-    color:#20b2aa;
+    color:#2ce70f;
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -85,7 +85,7 @@ h4{
     display:inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #20b2aa;
+    border: 2px solid #29c21e;
     outline: none;
     border-radius: 10px;
 }
@@ -96,7 +96,7 @@ h4{
     padding: 10px 30px;
     border: none;
     border-radius: 30px;
-    background-color: #20b2aa;
+    background-color: #29c21e;
     box-shadow: 0 0 5px #000, 0px 0px 15px #858585;
     top: 6px;
     right: 6px;
@@ -204,7 +204,7 @@ h5{
     margin-bottom: 25;
 }
 .card .button{
-    background-color: rgb(61, 128, 125);
+    background-color: rgb(31, 165, 31);
     color: #fcfcfc;
     text-decoration: none;
     border: 1px solid transparent;
@@ -214,7 +214,7 @@ h5{
 }
 .card .button:hover{
     background-color: transparent;
-    border: 2px solid rgb(58, 172, 167);
+    border: 2px solid rgb(34, 193, 23);
     cursor: pointer;
 }
 footer{
